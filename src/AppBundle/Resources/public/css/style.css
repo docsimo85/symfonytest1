@@ -302,7 +302,7 @@ color: #fff;
 	transition:all 0.3s ease-in-out;
 	-moz-transition:all 0.3s ease-in-out;
 	-webkit-transition:all 0.3s ease-in-out;
-	display: none;
+	/*display: none;*/
 }
 .Learn-More i{ 
 	padding-right:15px;
